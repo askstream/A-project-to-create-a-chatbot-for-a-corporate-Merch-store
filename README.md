@@ -82,19 +82,13 @@ cd telegram-merch-store
 
 3. **Настройте базу данных**
 ```bash
-psql -U postgres -d your_database -f database/schema.sql
-psql -U postgres -d your_database -f database/functions.sql
+psql -U postgres -d your_database -f `database/mvp_merch_store_full.sql`
+psql -U postgres -d your_database -f 'database/mvp user grants max.sql`
 ```
 
-4. **Настройте переменные окружения**
+4. **Загрузите каталог товаров**
 ```bash
-cp .env.example .env
-# Отредактируйте .env файл с вашими credentials
-```
-
-5. **Загрузите каталог товаров**
-```bash
-psql -U postgres -d your_database -f database/mvp_merch_store_full.sql
+psql -U postgres -d your_database -f database/test_data_techflow.sql
 ```
 
 
@@ -132,7 +126,7 @@ psql -U postgres -d your_database -f database/mvp_merch_store_full.sql
 ![Пример диалога с ботом](./screenshots/bot-conversation.png)
 
 ### Панель администратора
-![Панель администратора](./screenshots/Store - dashboard.png)
+![Панель администратора](./screenshots/Store-dashboard.png)
 
 ### Workflow в n8n
 ![n8n Workflow](./screenshots/workflow-diagram.png)

@@ -529,10 +529,10 @@ OpenAI получает набор из 6 функций для управлен
 — Приветствие бота и выбор товара из каталога
 
 — Оформление заказа с указанием телефона и адреса доставки
-![Telegram bot-Оформление](./screenshots/bot-conversation.png)
+![Telegram bot-Оформление](/screenshots/bot-conversation.png)
 
 — Уведомление администратору о новом заказе
-![Telegram bot-Admins оповещение](./screenshots/Telegram_bot-Admins_оповещение.png)
+![Telegram bot-Admins оповещение](/screenshots/Telegram_bot-Admins_оповещение.png)
 
 ### 8.2. Административная панель
 

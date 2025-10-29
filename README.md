@@ -82,8 +82,10 @@ cd telegram-merch-store
 
 3. **Настройте базу данных**
 ```bash
-psql -U postgres -d your_database -f `database/mvp_merch_store_full.sql`
-psql -U postgres -d your_database -f 'database/mvp user grants max.sql`
+# Полная структура с таблицами и функциями
+psql -U postgres -d your_database -f database/mvp_merch_store_full.sql
+# Сосздание пользователя 'mvp' и доступы
+psql -U postgres -d your_database -f database/mvp_user_grants_max.sql
 ```
 
 4. **Загрузите каталог товаров**
@@ -129,7 +131,7 @@ psql -U postgres -d your_database -f database/test_data_techflow.sql
 ![Панель администратора](./screenshots/Store-dashboard.png)
 
 ### Workflow в n8n
-![n8n Workflow](./screenshots/workflow-diagram.png)
+![n8n Workflow](./screenshots/n8n-Завершение_заказа.png)
 
 ## Лицензия
 

@@ -26,7 +26,7 @@
       },
       {
         "role": "tool",
-        "content": "{\"message_id\":222,\"from\":{\"id\":8305087002,\"is_bot\":true,\"first_name\":\"Зерокодер Обучение\",\"username\":\"pe2_7_test_bot\"},\"chat\":{\"id\":8405175875,\"first_name\":\"ASK\",\"last_name\":\"Device\",\"username\":\"askdevice\",\"type\":\"private\"},\"date\":1761735795,\"text\":\"Привет! Ваша корзина пока пуста. Если хотите, могу помочь выбрать товары. У нас есть следующие группы:\\n\\n1. Одежда\\n2. Аксессуары\\n3. Гаджеты\\n4. Для офиса\\n\\nКакую группу товаров вы хотите рассмотреть?\"}",
+        "content": "{\"message_id\":222,\"from\":{\"id\":BOT_ID_HIDDEN,\"is_bot\":true,\"first_name\":\"BotName\",\"username\":\"bot_username\"},\"chat\":{\"id\":USER_ID_HIDDEN,\"first_name\":\"ИМЯ_СКРЫТО\",\"last_name\":\"ФАМИЛИЯ_СКРЫТА\",\"username\":\"username_hidden\",\"type\":\"private\"},\"date\":1761735795,\"text\":\"Привет! Ваша корзина пока пуста. Если хотите, могу помочь выбрать товары. У нас есть следующие группы:\\n\\n1. Одежда\\n2. Аксессуары\\n3. Гаджеты\\n4. Для офиса\\n\\nКакую группу товаров вы хотите рассмотреть?\"}",
         "tool_call_id": "call_KQwOeOp0WRWZfkCVUSicbQQv"
       },
       {
@@ -53,7 +53,7 @@
       },
       {
         "role": "tool",
-        "content": "{\"message_id\":224,\"from\":{\"id\":8305087002,\"is_bot\":true,\"first_name\":\"Зерокодер Обучение\",\"username\":\"pe2_7_test_bot\"},\"chat\":{\"id\":8405175875,\"first_name\":\"ASK\",\"last_name\":\"Device\",\"username\":\"askdevice\",\"type\":\"private\"},\"date\":1761736298,\"text\":\"Вот наши футболки:\\n\\n1. Футболка TechFlow Classic White\\n   - Цена: 1200 ₽\\n   - Описание: Базовая белая футболка с минималистичным логотипом на груди. 100% органический хлопок. Размеры: XS-XXL\\n\\n2. Футболка TechFlow Electric Blue\\n   - Цена: 1400 ₽\\n   - Описание: Яркая футболка электрик-синего цвета с большим принтом на спине \\\"Code. Build. Deploy.\\\". Размеры: S-XL\\n\\nЕсли вам что-то понравилось, дайте знать, и я добавлю товар в корзину!\"}",
+        "content": "{\"message_id\":224,\"from\":{\"id\":BOT_ID_HIDDEN,\"is_bot\":true,\"first_name\":\"BotName\",\"username\":\"bot_username\"},\"chat\":{\"id\":USER_ID_HIDDEN,\"first_name\":\"ИМЯ_СКРЫТО\",\"last_name\":\"ФАМИЛИЯ_СКРЫТА\",\"username\":\"username_hidden\",\"type\":\"private\"},\"date\":1761736298,\"text\":\"Вот наши футболки:\\n\\n1. Футболка TechFlow Classic White\\n   - Цена: 1200 ₽\\n   - Описание: Базовая белая футболка с минималистичным логотипом на груди. 100% органический хлопок. Размеры: XS-XXL\\n\\n2. Футболка TechFlow Electric Blue\\n   - Цена: 1400 ₽\\n   - Описание: Яркая футболка электрик-синего цвета с большим принтом на спине \\\"Code. Build. Deploy.\\\". Размеры: S-XL\\n\\nЕсли вам что-то понравилось, дайте знать, и я добавлю товар в корзину!\"}",
         "tool_call_id": "call_6lAMMcPIpiie51CFr3hgzk3w"
       },
       {
@@ -80,7 +80,7 @@
       },
       {
         "role": "tool",
-        "content": "{\"message_id\":226,\"from\":{\"id\":8305087002,\"is_bot\":true,\"first_name\":\"Зерокодер Обучение\",\"username\":\"pe2_7_test_bot\"},\"chat\":{\"id\":8405175875,\"first_name\":\"ASK\",\"last_name\":\"Device\",\"username\":\"askdevice\",\"type\":\"private\"},\"date\":1761736520,\"text\":\"Вы выбрали Футболка TechFlow Electric Blue за 1400 ₽. Она была добавлена в вашу корзину. \\n\\nСейчас в вашей корзине:\\n- Футболка TechFlow Classic White — 1200 ₽\\n- Футболка TechFlow Electric Blue — 1400 ₽\\n\\nЕсли хотите что-то еще добавить или оформить заказ, дайте знать!\"}",
+        "content": "{\"message_id\":226,\"from\":{\"id\":BOT_ID_HIDDEN,\"is_bot\":true,\"first_name\":\"BotName\",\"username\":\"bot_username\"},\"chat\":{\"id\":USER_ID_HIDDEN,\"first_name\":\"ИМЯ_СКРЫТО\",\"last_name\":\"ФАМИЛИЯ_СКРЫТА\",\"username\":\"username_hidden\",\"type\":\"private\"},\"date\":1761736520,\"text\":\"Вы выбрали Футболка TechFlow Electric Blue за 1400 ₽. Она была добавлена в вашу корзину. \\n\\nСейчас в вашей корзине:\\n- Футболка TechFlow Classic White — 1200 ₽\\n- Футболка TechFlow Electric Blue — 1400 ₽\\n\\nЕсли хотите что-то еще добавить или оформить заказ, дайте знать!\"}",
         "tool_call_id": "call_RpbgICmVf79ooS17BzNt04TR"
       },
       {
@@ -107,7 +107,7 @@
       },
       {
         "role": "tool",
-        "content": "{\"message_id\":228,\"from\":{\"id\":8305087002,\"is_bot\":true,\"first_name\":\"Зерокодер Обучение\",\"username\":\"pe2_7_test_bot\"},\"chat\":{\"id\":8405175875,\"first_name\":\"ASK\",\"last_name\":\"Device\",\"username\":\"askdevice\",\"type\":\"private\"},\"date\":1761736603,\"text\":\"Футболка за 1200 ₽ была убрана из вашей корзины. \\n\\nТеперь в вашей корзине только:\\n- Футболка TechFlow Electric Blue — 1400 ₽\\n\\nЕсли хотите что-то еще добавить или оформить заказ, дайте знать!\"}",
+        "content": "{\"message_id\":228,\"from\":{\"id\":BOT_ID_HIDDEN,\"is_bot\":true,\"first_name\":\"BotName\",\"username\":\"bot_username\"},\"chat\":{\"id\":USER_ID_HIDDEN,\"first_name\":\"ИМЯ_СКРЫТО\",\"last_name\":\"ФАМИЛИЯ_СКРЫТА\",\"username\":\"username_hidden\",\"type\":\"private\"},\"date\":1761736603,\"text\":\"Футболка за 1200 ₽ была убрана из вашей корзины. \\n\\nТеперь в вашей корзине только:\\n- Футболка TechFlow Electric Blue — 1400 ₽\\n\\nЕсли хотите что-то еще добавить или оформить заказ, дайте знать!\"}",
         "tool_call_id": "call_hoPxxZ6elTTlXE8mMdqMvFGM"
       },
       {
@@ -234,8 +234,8 @@
     ],
     "tool_choice": "auto",
     "_metadata": {
-      "chat_id": "8405175875",
-      "user_id": 8405175875,
+      "chat_id": "USER_ID_HIDDEN",
+      "user_id": "USER_ID_HIDDEN",
       "original_message": "+79161234567 доставка домой"
     }
   }

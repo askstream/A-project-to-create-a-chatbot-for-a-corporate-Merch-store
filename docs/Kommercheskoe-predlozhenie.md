@@ -598,6 +598,10 @@ OpenAI получает набор из 6 функций для управлен
 
 ![Store заказы с историей](/screenshots/Store-заказы_с_историей.png)
 
+— **Корзины**: просмотр текущих корзин
+
+![Store Администраторы](/screenshots/Store-Carts.png)
+
 — **Администраторы**: список админов для Telegram-уведомлений
 
 ![Store Администраторы](/screenshots/Store-Admins.png)

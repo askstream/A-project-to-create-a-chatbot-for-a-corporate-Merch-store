@@ -278,7 +278,6 @@ class PH,PE,RF,SP,PN photo
 
 ### 3.2. PostgreSQL функции для работы с корзиной и заказами
 
-> **Примечание:** Полный код функций доступен в файле `TechFlow-Merch-Store-Complete-AI-Assistant-v2.2.1.json` и в документации проекта `diagramma.-tablitsy-sostoianii-i-perekhodov.md`.
 
 #### Функция `add_item_to_cart(p_user_id, p_product_id, p_qty)`
 

@@ -82,8 +82,12 @@ cd telegram-merch-store
 
 3. **Настройте базу данных**
 ```bash
+# Создание базы данных для проекта
+psql -U postgres -d your_database -f database/mvp_create_database.sql
+
 # Полная структура с таблицами и функциями
 psql -U postgres -d your_database -f database/mvp_merch_store_full.sql
+
 # Сосздание пользователя 'mvp' и доступы
 psql -U postgres -d your_database -f database/mvp_user_grants_max.sql
 ```

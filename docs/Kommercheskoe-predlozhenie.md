@@ -403,9 +403,6 @@ OpenAI получает набор из 6 функций для управлен
 4. **tool_choice:** `"auto"` — OpenAI сам решает, нужно ли вызывать функцию
 
 ![n8n-пример подготовки промпта для OpenAI](/scripts/n8n-пример_подготовки_промпта_для_OpenAI.json)
-<details>
-<summary>Нажмите, чтобы увидеть полный JSON</summary>
-
 
 <details>
 <summary>Нажмите, чтобы увидеть полный JSON</summary>

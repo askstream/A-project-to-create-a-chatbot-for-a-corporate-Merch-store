@@ -72,7 +72,6 @@
 1. **Клонируйте репозиторий**
 ```bash
 git clone https://github.com/askstream/A-project-to-create-a-chatbot-for-a-corporate-Merch-store.git
-cd telegram-merch-store
 ```
 
 2. **Импортируйте workflow в n8n**

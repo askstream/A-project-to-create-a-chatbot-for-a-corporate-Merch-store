@@ -71,7 +71,7 @@
 
 1. **Клонируйте репозиторий**
 ```bash
-git clone https://github.com/your-username/telegram-merch-store.git
+git clone [https://github.com/your-username/telegram-merch-store.git](https://github.com/askstream/A-project-to-create-a-chatbot-for-a-corporate-Merch-store.git)
 cd telegram-merch-store
 ```
 
@@ -83,18 +83,18 @@ cd telegram-merch-store
 3. **Настройте базу данных**
 ```bash
 # Создание базы данных для проекта
-psql -U postgres -d your_database -f database/mvp_create_database.sql
+psql -U postgres -f database/mvp_create_database.sql
 
 # Полная структура с таблицами и функциями
-psql -U postgres -d your_database -f database/mvp_merch_store_full.sql
+psql -U postgres -d mvp_store -f database/mvp_merch_store_full.sql
 
 # Сосздание пользователя 'mvp' и доступы
-psql -U postgres -d your_database -f database/mvp_user_grants_max.sql
+psql -U postgres -f database/mvp_user_grants_max.sql
 ```
 
 4. **Загрузите каталог товаров**
 ```bash
-psql -U postgres -d your_database -f database/test_data_techflow.sql
+psql -U postgres -d mvp_store -f database/test_data_techflow.sql
 ```
 
 

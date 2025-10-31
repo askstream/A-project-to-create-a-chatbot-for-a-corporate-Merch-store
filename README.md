@@ -71,7 +71,7 @@
 
 1. **Клонируйте репозиторий**
 ```bash
-git clone [https://github.com/your-username/telegram-merch-store.git](https://github.com/askstream/A-project-to-create-a-chatbot-for-a-corporate-Merch-store.git)
+git clone https://github.com/askstream/A-project-to-create-a-chatbot-for-a-corporate-Merch-store.git
 cd telegram-merch-store
 ```
 
